@@ -4,6 +4,8 @@ An early web design project celebrating QSE Robotics, a VEX team at Pinnacle Vie
 
 Created by **Anay Pandit** as a code-camp project, this website connects an interest in robotics with the beginnings of learning to build for the web.
 
+**[View the website](https://anaypandit.github.io/code-camp/)**
+
 ## Inside the project
 
 - A team introduction and robotics background.
